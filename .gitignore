@@ -1,0 +1,4 @@
+*.json
+*.scss
+.DS_Store
+style.css.map
