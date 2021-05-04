@@ -2,5 +2,6 @@
 *.scss
 .DS_Store
 style.css.map
-*.docx
 .gitignore
+presentation.pdf
+presentation.docx
